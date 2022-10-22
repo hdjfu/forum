@@ -1,0 +1,1 @@
+CREATE TABLE teste(id int NOT NULL AUTO_INCREMENT, nome VARCHAR(50), texto VARCHAR(400), PRIMARY KEY (id), horario datetime);
